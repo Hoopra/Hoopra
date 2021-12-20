@@ -1,7 +1,7 @@
-👋  Hi, I’m @Hoopra
-👀  I’m interested in devops, automation and data science
-🌱  I’m currently learning stress and penetration testing
-💞️  I’m looking to collaborate on:
+- 👋  Hi, I’m @Hoopra
+- 👀  I’m interested in devops, automation and data science
+- 🌱  I’m currently learning stress and penetration testing
+- 💞️  I’m looking to collaborate on:
   - React utilities
   - Kubernetes related projects
   - Github Actions
